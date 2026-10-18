@@ -1,0 +1,5 @@
+syntax
+
+a set of rules (formal or informal, written or felt intuitively) 
+used to determine if a certain string of words forms a valid sentence 
+(e.g., "I am a python" is a syntactically correct phrase, while "I a python am" isn't)

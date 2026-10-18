@@ -1,0 +1,10 @@
+Caracter - Qualquer conjunto de caracteres alfanuméricos.
+Exemplo: “Fabio”, “São Paulo”, “VZ32”, “123”...
+
+Inteiro	- Qualquer número inteiro, negativo, nulo ou positivo.
+Exemplo: -21, 0, 10, 5025...
+
+Real - Qualquer número real no formato decimal, negativo, nulo ou positivo.
+Exemplo: -0.5, 0, 5, 9.5...
+
+Lógico - Conjunto de valores (falso ou verdadeiro).

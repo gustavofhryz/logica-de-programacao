@@ -1,0 +1,14 @@
+>>Variáveis
+
+Variável é um recurso utilizado na programação para armazenar e recuperar dados, 
+ou seja, é um espaço que reservamos na memória atribuindo um nome e organizando 
+os dados manipulados no programa.
+
+>>Constantes
+
+Uma constante é responsável por armazenar um valor fixo em um espaço da memória.
+Esse valor não se altera durante a execução do programa.
+
+Um exemplo clássico é o valor de pi. Suponha que você precise trabalhar com o número pi, 
+que é um valor fixo de, aproximadamente, 3,14. 
+Você pode simplesmente declará-lo e utilizá-lo em todo o seu programa.

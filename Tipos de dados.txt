@@ -1,0 +1,12 @@
+Tipos de dados
+
+Ao criarmos uma variável em um programa temos de especificar o tipo de dado que será armazenado. 
+Por exemplo, uma variável que vai armazenar o nome de uma pessoa será do tipo “caracter”, 
+pois armazenará letras. Uma variável que armazenará a idade de uma pessoa, 
+poderá receber somente “números inteiros”, portanto, deverá ser declarada como sendo do tipo “inteiro”.
+
+Já uma variável “valor”, como está representando um espaço para armazenar número com casas decimais,
+deverá ser declarada como sendo do tipo “real”.
+
+Os tipos de dados influenciam na forma como o programa irá trabalhar,
+no desempenho do programa e no seu consumo de memória.

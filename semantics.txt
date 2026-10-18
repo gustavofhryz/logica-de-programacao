@@ -1,0 +1,3 @@
+semantics
+
+a set of rules determining if a certain phrase makes sense (e.g., "I ate a doughnut" makes sense, but "A doughnut ate me" doesn't)

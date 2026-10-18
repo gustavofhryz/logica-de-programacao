@@ -1,0 +1,2 @@
+Um snippet em programação é um pequeno trecho de código-fonte reutilizável que você
+pode inserir rapidamente em um projeto maior para ganhar tempo e evitar digitação repetitiva.

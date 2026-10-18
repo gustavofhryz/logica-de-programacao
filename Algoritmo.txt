@@ -1,0 +1,10 @@
+Composição de um algoritmo
+
+Entrada
+São os dados de entrada do algoritmo.
+
+Processamento
+São os procedimentos utilizados para chegar ao resultado final.
+
+Saída
+São os dados já processados, ou seja, o resultado da programação.

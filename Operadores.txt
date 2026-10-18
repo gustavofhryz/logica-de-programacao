@@ -1,0 +1,79 @@
+Operadores
+
+Os operadores são meios de incrementar, decrementar, comparar e avaliar dados durante a execução do programa.
+
+Por padrão, temos quatro tipos de operadores:
+
+Operador de Atribuição
+Operadores Aritméticos
+Operadores Relacionais
+Operadores Lógicos
+
+----------------------------------------------------------------------------------------------------------------
+
+Operador de Atribuição
+
+O operador de atribuição em algoritmos é representado pela seta , indicando que algum valor será atribuído em alguma variável. Exemplo: multiplica  2 * 2.
+
+Na maioria das linguagens de programação o símbolo de atribuição é o operador igual (=).
+O operador de atribuição em algoritmos é representado pela seta, indicando que algum valor será atribuído em alguma variável. Exemplo: multiplica  2 * 2.
+
+Na maioria das linguagens de programação o símbolo de atribuição é o operador igual (=).
+
+----------------------------------------------------------------------------------------------------------------
+
+Operadores Aritméticos
+
+Os operadores aritméticos permitem a realização de operações matemáticas com dados do tipo numérico.
+
+Além dos símbolos já conhecidos para adição, subtração, multiplicação e divisão, podemos utilizar, também, alguns outros símbolos, como operadores.
+
+Os símbolos para os operadores aritméticos são:
+
+Operação	Símbolo
+Adição	+
+Subtração	-
+Multiplicação	*
+Divisão	/
+Exponenciação	**
+
+----------------------------------------------------------------------------------------------------------------
+
+Hierarquia das Operações Aritméticas
+
+Ao realizar as operações matemáticas temos uma sequência das operações a serem realizadas, que são:
+
+Cálculos que estão entre parênteses: ( )
+Exponenciação: * *
+Multiplicação, divisão (o que estiver primeiro): * /
+Adição ou Subtração (o que estiver primeiro): + ou -
+
+----------------------------------------------------------------------------------------------------------------
+
+Operadores Relacionais
+
+Os operadores relacionais são utilizados para comparar caracteres, números, variáveis e expressões.
+
+Estes operadores sempre retornam valores lógicos (verdadeiro/falso, true/false ou 0/1), podendo variar a simbologia, dependendo da linguagem de programação utilizada.
+
+Os operadores relacionais utilizados nos algoritmos são:
+
+Operação	Símbolo
+Comparação	=
+Diferente de	<>
+Maior que	>
+Menor que	<
+Maior ou igual	>=
+Menor ou igual	<=
+
+----------------------------------------------------------------------------------------------------------------
+
+Operadores lógicos
+
+Os operadores lógicos servem para combinar resultados de expressões, retornando se o resultado final é verdadeiro ou falso.
+
+e	and
+ou	or
+não	not
+
+
